@@ -5,7 +5,7 @@
 - \# hastag, pund, number sign
 - $ money sign, dollar disn, dollars
 - % percent
-- ^ up aero, exponent
+- ^ up arrow, exponent
 - & and symbol
 - \* asterisk
 - ( forward/opening bracket
