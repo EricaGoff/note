@@ -37,5 +37,6 @@
 
 
 # github links
-https://ericagoff.github.io/note/
-https://github.com/EricaGoff/note
+[https://ericagoff.github.io/note/]
+
+[https://github.com/EricaGoff/note]
