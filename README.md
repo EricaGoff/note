@@ -23,3 +23,14 @@
 😊
 ❣️
 🥰
+
+
+# Keyboard shortcuts
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-X (undo)
+
+# Shortcuts I would like to use more
+- Alt-Tab (switch screens/tabs)
+- Ctrl-F (open a search window)
+- Ctrl-W (close current window)
