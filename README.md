@@ -34,3 +34,8 @@
 - Alt-Tab (switch screens/tabs)
 - Ctrl-F (open a search window)
 - Ctrl-W (close current window)
+
+
+# github links
+https://ericagoff.github.io/note/
+https://github.com/EricaGoff/note
