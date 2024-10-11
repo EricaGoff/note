@@ -40,3 +40,5 @@
 [Github.io](https://ericagoff.github.io/note/)
 
 [Github Erica Goff Note](https://github.com/EricaGoff/note)
+
+[CLI commands](docs/cli.md)
