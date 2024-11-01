@@ -2,8 +2,8 @@
 
 - ! exclamation mark
 - @ at symbol
-- \# hastag, pund, number sign
-- $ money sign, dollar disn, dollars
+- \# hastag, pound, number sign
+- $ money sign, dollar sign, dollars
 - % percent
 - ^ up arrow, exponent
 - & and symbol
@@ -42,3 +42,7 @@
 [Github Erica Goff Note](https://github.com/EricaGoff/note)
 
 [CLI commands](docs/cli.md) 
+
+[JSON file](https://github.com/EricaGoff/note/blob/main/docs/players.json)
+
+[YMAL file](https://github.com/EricaGoff/note/blob/main/docs/players.yml)
