@@ -40,23 +40,23 @@
     }
   ],
   "Name3": [
-    "Serena Williams"
+    "Serena Williams"  // string: Players full name
   ],
   "Age3": [
-    41
+    41   // string: players age
   ],
   "Sport3": [
-    "Tennis"
+    "Tennis" // string: sport played
   ],
   "Team3": [
     {
-      "Name": "N/A"
+      "Name": "N/A" // string: team name
     },
     {
-      "City": "N/A"
+      "City": "N/A" // string: team city
     },
     {
-      "Position": "Player"
+      "Position": "Player" // string: players role
     }
   ],
   "Name4": [
