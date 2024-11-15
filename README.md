@@ -46,3 +46,5 @@
 [JSON file](https://github.com/EricaGoff/note/blob/main/docs/players.json)
 
 [YMAL file](https://github.com/EricaGoff/note/blob/main/docs/players.yml)
+
+[SQL file](https://github.com/EricaGoff/note/blob/main/lab11.sql)
