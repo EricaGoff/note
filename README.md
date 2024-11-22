@@ -48,3 +48,5 @@
 [YMAL file](https://github.com/EricaGoff/note/blob/main/docs/players.yml)
 
 [SQL file](https://github.com/EricaGoff/note/blob/main/lab11.sql)
+
+[SQL file week 12](https://github.com/EricaGoff/note/blob/8dd3166be9d0f70744cea54d25969e38754dd7bd/lab12.sql)
